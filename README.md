@@ -1,0 +1,1 @@
+Create your `openaiapikey.txt` file and paste your OpenAI API key. Paste whatever article you want into the `input.txt` file. When the you run `chain.py`, a summary of that article will be created, along with a twitter post, and hashtags.
